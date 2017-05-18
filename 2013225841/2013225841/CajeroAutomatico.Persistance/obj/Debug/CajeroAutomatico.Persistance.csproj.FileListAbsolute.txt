@@ -1,0 +1,14 @@
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\CajeroAutomatico.Persistance.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Persistance.dll.config
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Persistance.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Persistance.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\EntityFramework.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\CajeroAutomatico.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\EntityFramework.xml
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\CajeroAutomatico.Persistance.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\CajeroAutomatico.Persistance.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\CajeroAutomatico.Persistance.Migrations.InitialModel.resources
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico.Persistance\obj\Debug\CajeroAutomatico.Persistance.csproj.GenerateResource.Cache

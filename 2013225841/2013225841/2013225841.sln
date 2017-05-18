@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013225841-CON", "CajeroAutomatico\2013225841-CON.csproj", "{3C18DFAA-615C-411F-8579-548E874CB1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013225841-ENT", "CajeroAutomatico.Entities\2013225841-ENT.csproj", "{5B8CFA41-4CF0-4079-A0CC-18705538A525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2013225841-PER", "CajeroAutomatico.Persistance\2013225841-PER.csproj", "{52F37556-7617-40AE-9912-EB8CC1E78D10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C18DFAA-615C-411F-8579-548E874CB1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C18DFAA-615C-411F-8579-548E874CB1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C18DFAA-615C-411F-8579-548E874CB1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C18DFAA-615C-411F-8579-548E874CB1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8CFA41-4CF0-4079-A0CC-18705538A525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8CFA41-4CF0-4079-A0CC-18705538A525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8CFA41-4CF0-4079-A0CC-18705538A525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8CFA41-4CF0-4079-A0CC-18705538A525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F37556-7617-40AE-9912-EB8CC1E78D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F37556-7617-40AE-9912-EB8CC1E78D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F37556-7617-40AE-9912-EB8CC1E78D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F37556-7617-40AE-9912-EB8CC1E78D10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

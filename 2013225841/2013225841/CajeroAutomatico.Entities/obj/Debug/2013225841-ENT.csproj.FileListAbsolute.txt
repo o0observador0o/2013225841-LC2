@@ -1,0 +1,10 @@
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2013225841\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2013225841\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2013225841\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\2013225841-ENT.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2013225841\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.dll
+E:\Proyectos\Visual Studio Projects\MIGRATIONS\2013225841\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.pdb
+C:\Users\ASUS\Desktop\2013225841\2013225841\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.dll
+C:\Users\ASUS\Desktop\2013225841\2013225841\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.pdb
+C:\Users\ASUS\Desktop\2013225841\2013225841\CajeroAutomatico.Entities\obj\Debug\2013225841-ENT.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\2013225841\2013225841\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.dll
+C:\Users\ASUS\Desktop\2013225841\2013225841\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.pdb
