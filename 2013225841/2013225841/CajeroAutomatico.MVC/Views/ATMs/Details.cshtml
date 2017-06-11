@@ -1,0 +1,43 @@
+﻿@model CajeroAutomatico.Entities.ATM
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ATM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BaseDatos.Administrador)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BaseDatos.Administrador)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CodigoATM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodigoATM)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idATM }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

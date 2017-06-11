@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace CajeroAutomatico.Entities.IRepository
 {
-    public interface IPantallaRepository : Repository<Pantalla>
+    public interface IPantallaRepository : IRepository<Pantalla>
     {
-        IEnumerable<Pantalla> getPantallaxATM(ATM ATM);
-        IEnumerable<Pantalla> getPantallaxRetiro(Retiro Retiro);
+       
     }
 }

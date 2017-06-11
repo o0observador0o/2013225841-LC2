@@ -1,0 +1,4 @@
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.pdb

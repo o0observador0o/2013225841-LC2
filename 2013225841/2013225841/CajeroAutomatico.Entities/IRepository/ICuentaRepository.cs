@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CajeroAutomatico.Entities.IRepository
 {
-    public interface ICuentaRepository : Repository<Cuenta>
+    public interface ICuentaRepository : IRepository<Cuenta>
     {
-        IEnumerable<Cuenta> getCuentaxBaseDatos(BaseDatos BaseDatos);
+        
     }
 }

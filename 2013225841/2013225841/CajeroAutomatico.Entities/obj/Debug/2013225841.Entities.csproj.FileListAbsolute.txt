@@ -1,0 +1,5 @@
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\2013225841\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\2013225841\CajeroAutomatico.Entities\bin\Debug\CajeroAutomatico.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\2013225841\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\2013225841\CajeroAutomatico.Entities\obj\Debug\CajeroAutomatico.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\2013225841\CajeroAutomatico.Entities\obj\Debug\2013225841.Entities.csprojResolveAssemblyReference.cache

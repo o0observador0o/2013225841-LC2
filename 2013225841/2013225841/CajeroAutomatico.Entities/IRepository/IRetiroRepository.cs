@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace CajeroAutomatico.Entities.IRepository
 {
-    public interface IRetiroRepository : Repository<Retiro>
+    public interface IRetiroRepository : IRepository<Retiro>
     {
-        IEnumerable<Retiro> getRetiroxPantalla(Pantalla Pantalla);
-        IEnumerable<Retiro> getRetiroxATM(ATM ATM);
-        IEnumerable<Retiro> getRetiroxDispensador(DispensadorEfectivo DispensadorEfectivo);
-        IEnumerable<Retiro> getRetiroxBasedeDatos(BaseDatos BaseDatos);
+        
     }
 }

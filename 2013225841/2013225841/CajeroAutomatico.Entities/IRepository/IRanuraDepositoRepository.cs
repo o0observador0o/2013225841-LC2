@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CajeroAutomatico.Entities.IRepository
 {
-    public interface IRanuraDepositoRepository : Repository<RanuraDeposito>
+    public interface IRanuraDepositoRepository : IRepository<RanuraDeposito>
     {
-        IEnumerable<RanuraDeposito> getRanuraporATM(ATM ATM);
+       
     }
 }

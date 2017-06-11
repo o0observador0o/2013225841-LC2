@@ -18,6 +18,21 @@ E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico
 E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.Entities.pdb
 E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.Persistance.pdb
 E:\Proyectos\Visual Studio Projects\MIGRATIONS\CajeroAutomatico\CajeroAutomatico\bin\Debug\EntityFramework.xml
-E:\Proyectos\Visual Studio Projects\MIGRATIONS\2013225841\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
-E:\Proyectos\Visual Studio Projects\MIGRATIONS\2013225841\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
-E:\Proyectos\Visual Studio Projects\MIGRATIONS\2013225841\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\NUEVO\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\NUEVO\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\NUEVO\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.Entities.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.Persistance.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\EntityFramework.dll
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.Entities.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\CajeroAutomatico.Persistance.pdb
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\bin\Debug\EntityFramework.xml
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.csprojResolveAssemblyReference.cache
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+E:\Proyectos\Visual Studio Projects\MVC_WEB API\LABORATORIOS\JuanCarlos_cajeroAutomatico\CajeroAutomatico\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb

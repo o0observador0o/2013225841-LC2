@@ -10,6 +10,7 @@ namespace CajeroAutomatico.Entities
     {
 
         public int idRanuraDeposito { set; get; }
+        public String MarcaRanura { set; get; }
 
         public int idATM { set; get; }
         public ATM ATM { set; get; }

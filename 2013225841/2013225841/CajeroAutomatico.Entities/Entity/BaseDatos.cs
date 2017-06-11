@@ -10,10 +10,12 @@ namespace CajeroAutomatico.Entities
     {
         public int idBaseDatos { set; get; }
         public String Administrador { set; get; }
-        public List<Cuenta> listaCuentas { set; get; }
+        public String LenguajeNativo { set; get; }
+        public Double CapacidadHDD { set; get; }
 
-        public int idATM { set; get; }
-        public ATM ATM { set; get; }
+        public List<Cuenta> listaCuentas { set; get; }
+        public List<ATM>  ListATM { set; get; }
+        public List<Retiro> ListRetiro { set; get; }
 
         
 

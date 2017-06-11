@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CajeroAutomatico.Entities.ATM>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BaseDatos.Administrador)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoATM)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BaseDatos.Administrador)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoATM)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.idATM }) |
+            @Html.ActionLink("Details", "Details", new { id=item.idATM }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.idATM })
+        </td>
+    </tr>
+}
+
+</table>

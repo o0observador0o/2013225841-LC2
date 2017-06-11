@@ -6,10 +6,9 @@ using System.Threading.Tasks;
 
 namespace CajeroAutomatico.Entities.IRepository
 {
-    public interface ITecladoRepository : Repository<Teclado>
+    public interface ITecladoRepository : IRepository<Teclado>
     {
 
-        IEnumerable<Teclado> getTecladoporATM(ATM ATM);
-        IEnumerable<Teclado> getTecladoporRetiro(Retiro Retiro);
+        
     }
 }

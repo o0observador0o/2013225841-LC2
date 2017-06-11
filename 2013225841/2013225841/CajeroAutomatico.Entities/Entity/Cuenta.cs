@@ -15,6 +15,8 @@ namespace CajeroAutomatico.Entities
 
         public int idBaseDatos { set; get; }
         public BaseDatos BaseDatos { set; get; }
+
+        public List<Retiro> ListRetiro { set; get; }
         
     }
 }

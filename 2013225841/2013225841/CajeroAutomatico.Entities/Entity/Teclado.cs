@@ -9,12 +9,11 @@ namespace CajeroAutomatico.Entities
     public class Teclado
     {
         public int idTeclado { set; get; }
-        public String Marca { set; get; }
+        public String MarcaTeclado { set; get; }
 
         public int idATM { set; get; }
         public ATM ATM { set; get; }
 
-        public int idRetiro { set; get; }
-        public Retiro Retiro { set; get; }
+        //public List<Retiro> ListRetiro { set; get; }
     }
 }

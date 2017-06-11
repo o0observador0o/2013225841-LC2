@@ -10,20 +10,15 @@ namespace CajeroAutomatico.Entities
     {
         public int idATM {set;get;}
 
-        public RanuraDeposito ranuradeposito { set; get; }
-        public int idRanuraDeposito { set; get; }
+       
+        public List<Retiro>ListRetiro{set;get;}
+        public List<Pantalla> ListPantalla { set; get; }
+        public List<DispensadorEfectivo> ListDispensadorEfectivo { set; get; }
+        public List<Teclado> ListTeclado { set; get; }
+        public List<RanuraDeposito> ListRanuraDeposito { set; get; }
 
-        public Teclado teclado { set; get; }
-        public int idTeclado { set; get; }
-
-        public DispensadorEfectivo dispensadorEfectivo { set; get; }
-        public int idDispensadorEfectivo { set; get; }
-
-        public Pantalla pantalla { set; get; }
-        public int idPantalla { set; get; }
-
-        public int idRetiro { set; get; }
-        public Retiro Retiro { set; get; }
+        public String Direccion { set; get; }
+        public String CodigoATM { set; get; }
 
         public int idBaseDatos { set; get; }
         public BaseDatos BaseDatos { set; get; }
